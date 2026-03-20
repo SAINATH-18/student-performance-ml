@@ -1,7 +1,7 @@
 # Student Performance Prediction
 
-This project uses Machine Learning to predict student performance based on factors like study hours and attendance.
-(This project is created using the help of chatgpt)
+This project uses Machine Learning to predict student performance based on factors like study hours and attendance.As part of my AI learning, I worked on a dataset from Kaggle to build a machine learning model for student performance prediction.
+
 
 ## Technologies Used
 - Python
